@@ -5,9 +5,11 @@ All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
-- Add the ability to download dex metadata for an app from Google Play
-- Google Play: Fix authentication bug introduced by Google auth flow change
-- Google Play: Allow users to specify their own device properties files
+- Google Play:
+  - Add the ability to download dex metadata for an app
+  - Fix authentication bug introduced by Google auth flow change
+  - Allow users to specify their own device properties files
+  - Allow authentication with auth-token as alternative to aas-token
 - Update dependencies
 
 ## [0.18.0] - 2025-10-30
